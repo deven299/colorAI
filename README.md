@@ -19,3 +19,7 @@ The experiment was done on two datasets:
 1. Grayscale images of Intel Landscape Image Dataset: 25k images.
 2. Black-and-white frames extracted from old B&W movies: 24k images.
 
+## Results
+The first model gave good results.
+![667 jpg](https://user-images.githubusercontent.com/37305465/119123494-3dfa6400-ba4d-11eb-9693-50ff35bd941f.jpg) ![667 jpg jpg_result](https://user-images.githubusercontent.com/37305465/119123522-45217200-ba4d-11eb-8f17-d4981961be34.jpg)
+
