@@ -20,7 +20,9 @@ The experiment was done on two datasets:
 2. Black-and-white frames extracted from old B&W movies: 24k images.
 
 ## Results
-The first model gave good results.
+1. Intel Landscape Image Dataset.
 
 ![667 jpg](https://user-images.githubusercontent.com/37305465/119123494-3dfa6400-ba4d-11eb-9693-50ff35bd941f.jpg) ![667 jpg jpg_result](https://user-images.githubusercontent.com/37305465/119123522-45217200-ba4d-11eb-8f17-d4981961be34.jpg)
+
+![1906](https://user-images.githubusercontent.com/37305465/119123671-6d10d580-ba4d-11eb-8e82-c5c6c4e88435.jpg) ![1906 jpg_result](https://user-images.githubusercontent.com/37305465/119123689-726e2000-ba4d-11eb-805b-2fc91d900b04.jpg)
 
