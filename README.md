@@ -23,12 +23,17 @@ The experiment was done on two datasets:
 1. Intel Landscape Image Dataset.
 
 ![667 jpg](https://user-images.githubusercontent.com/37305465/119123494-3dfa6400-ba4d-11eb-9693-50ff35bd941f.jpg) ![667 jpg jpg_result](https://user-images.githubusercontent.com/37305465/119123522-45217200-ba4d-11eb-8f17-d4981961be34.jpg)
+
 ![1906](https://user-images.githubusercontent.com/37305465/119123671-6d10d580-ba4d-11eb-8e82-c5c6c4e88435.jpg) ![1906 jpg_result](https://user-images.githubusercontent.com/37305465/119123689-726e2000-ba4d-11eb-805b-2fc91d900b04.jpg)
+
 ![320](https://user-images.githubusercontent.com/37305465/119123800-96c9fc80-ba4d-11eb-9286-35d3dad108e9.jpg) ![320 jpg_result](https://user-images.githubusercontent.com/37305465/119123814-9a5d8380-ba4d-11eb-933f-1c5ab654f2ec.jpg)
 
 2. Black-and-White frames extracted from old B&W movies.
+
 ![image](https://user-images.githubusercontent.com/37305465/119124251-1657cb80-ba4e-11eb-8578-dfe909f77e65.png) ![image](https://user-images.githubusercontent.com/37305465/119124292-22438d80-ba4e-11eb-9e99-6733a92f2e19.png)
+
 ![image](https://user-images.githubusercontent.com/37305465/119124335-2b345f00-ba4e-11eb-9bf7-0c0ad64e4848.png) ![image](https://user-images.githubusercontent.com/37305465/119124375-35eef400-ba4e-11eb-8a58-b5b42681507b.png)
+
 ![image](https://user-images.githubusercontent.com/37305465/119124436-4901c400-ba4e-11eb-9a05-ddb1e6d7a617.png) ![image](https://user-images.githubusercontent.com/37305465/119124460-528b2c00-ba4e-11eb-93e1-b5b5f69e2b27.png)
 
 
